@@ -13,7 +13,7 @@ const Contact = () => {
                 <textarea name = "message" placeholder="Message" rows={10} className="bg-gray-300 p-2">
 
                 </textarea>
-                <button className="text-white border-2 hover:bg-[#3c96bd] hover:border-[#3c96bd] px-4 py-3 my-8 mx-auto flex items-center">Submit</button>
+                <button className="text-white border-2 hover:bg-[#3c96bd] hover:border-[#3c96bd] px-4 py-3 my-4 mx-auto flex items-center">Submit</button>
 
             </form>
 
