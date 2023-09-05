@@ -2,6 +2,7 @@ import React from 'react';
 import WorkImg from '../assets/workImg.jpeg';
 import realEstate from '../assets/realestate.jpg';
 import portfolio_screenshot from '../assets/portfolio_screenshot.jpg'
+import smithautomotive_screenshot from '../assets/smithautomotive_screenshot.PNG'
 
 
 const Work = () => {
